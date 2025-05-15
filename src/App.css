@@ -1,0 +1,19 @@
+.cont{
+  height: 100vh;
+  background-color: rgb(227, 222, 222);
+}
+
+.kategoria{
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+}
+
+.kartya{
+  background-color: #d1cece;
+  border-radius: 0.5rem;
+  padding-top: 2rem !important;
+  padding-bottom: 2rem !important;
+  margin-bottom: 1rem;
+}
